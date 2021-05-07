@@ -1,0 +1,25 @@
+Q Tôi có thể học bằng bao nhiêu ngôn ngữ ?
+T 24
+F 12
+F 5
+F 30
+Q Chi phí sinh hoạt khoảng bao nhiêu một tháng ?
+F 1000 euro
+F 200 - 300 euro
+T 400 – 500 euro
+F 700 - 800 euro
+Q Số lượng sinh viên trong từng đợt đăng ký ?
+F 100
+F 200
+F 300
+T 400
+Q Học phí trung bình khoảng bao nhiêu 1 năm ?
+T 1000 euro
+F 2000 euro
+F 5000 euro
+F 10000 euro
+Q EU có bao nhiêu nước thành viên ?
+F 25
+T 27
+F 31
+F 20

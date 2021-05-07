@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb6ff707bc3cc424f84d33a7bd47b6ac, type: 3}
+  m_Name: Configs
+  m_EditorClassIdentifier: 
+  timeLoadQuestion: 5
+  numberQuestionOnTime: 5
+  dataTime:
+  - timeLimitForScore: 1
+    scoreCorresponding: 10
+  - timeLimitForScore: 2
+    scoreCorresponding: 20
+  - timeLimitForScore: 3
+    scoreCorresponding: 30
+  - timeLimitForScore: 4
+    scoreCorresponding: 40
+  timeLoadquestionTime_1: 60
+  timeLoadquestionTime_2: 70
+  timeDelayCheck: 2
+  numberQuestionPerPlay: 15
+  numberRestQuestionChangeTimeLoadQuestion: 5
+  maxEasyIndex: 73
+  maxMiddleIndex: 97
